@@ -21,8 +21,6 @@ Evaluar el comportamiento de uso de los suscriptores de la empresa de telecomuni
 
 ## Cómo Ejecutar el Notebook
 
-### Opción A: Google Colab
-1. Haz clic en el botón de ejecución o abre [Google Colab](https://colab.research.google.com/).
-2. Sube el archivo del notebook (`.ipynb`).
-3. Sube los archivos `.csv` a la sesión de trabajo en el panel lateral izquierdo.
-4. Selecciona **Entorno de ejecución > Reiniciar y ejecutar todo**.
+1. Abre `notebooks/telecom-analysis.ipynb`
+2. Ejecuta las celdas en orden
+3. El notebook carga automáticamente el dataset desde `/data/` o desde un enlace público
